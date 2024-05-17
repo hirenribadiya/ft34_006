@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.box {
+    display: inline-block;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin: 10px;
+    padding: 20px;
+    width: 200px;
+    vertical-align: top;
+    text-align: center;
+}
+
+.profile-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.company-image {
+    max-width: 50px;
+    height: auto;
+    margin-top: 10px;
+}
+
+h2, h3 {
+    margin: 10px 0;
+}
